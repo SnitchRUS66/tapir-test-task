@@ -1,0 +1,20 @@
+// БЭМ, цвета и брейкпоинты по макету
+$color-black: #000000;
+$color-white: #ffffff;
+$color-red: #e00;
+$color-header-footer-bg: #000000;
+$color-text-dark: #000000;
+$color-text-muted: #6f6f6f;
+$color-bg-light: #f5f5f5;
+
+$breakpoint-mobile: 768px;
+$breakpoint-desktop: 1440px;
+$header-height-mobile: 60px;
+$header-height-desktop: 80px;
+
+$font-family-base: system-ui, -apple-system, sans-serif;
+$spacing-unit: 4px;
+$root-font-size: 14px;
+
+$container-padding-x-mobile: $spacing-unit * 5;
+$container-padding-x-desktop: $spacing-unit * 15;
